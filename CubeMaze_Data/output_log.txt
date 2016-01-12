@@ -1,0 +1,28 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Mobility Radeon HD 5800 Series (ID=0x68a0)
+    Vendor:   ATI
+    VRAM:     1017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joni\Documents\Game A Week 1\CubeMaze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joni\Documents\Game A Week 1\CubeMaze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joni\Documents\Game A Week 1\CubeMaze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joni\Documents\Game A Week 1\CubeMaze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+desktop: 1600x900 60Hz; virtual: 3520x1200 at 0,-300
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.705447 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.787783 ms (FindLiveObjects: 0.011990 ms CreateObjectMapping: 0.009992 ms MarkObjects: 0.143087 ms  DeleteObjects: 0.004396 ms)
+
+UnloadTime: 0.707845 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.648292 ms (FindLiveObjects: 0.013989 ms CreateObjectMapping: 0.011990 ms MarkObjects: 0.153479 ms  DeleteObjects: 0.003597 ms)
+
